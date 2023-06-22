@@ -24,10 +24,10 @@ Bu Flutter projesi, kullanıcının konum bilgisini alarak https://wttr.in sites
 
 ## Kurulum
 
-1. Flutter SDK'nın yüklü olduğundan emin olun.
+1. Bu uygulama Flutter için hazırlanmıştır.
 2. Bu projeyi klonlayın veya indirin.
-3. Terminalde projenin kök dizininde `flutter packages get` komutunu çalıştırarak paketleri yükleyin.
-4. Uygulamayı bir cihazda çalıştırmak için `flutter run` komutunu kullanın.
+3. 'pubspec.yaml' dosyasında yer alan kütüphaneleri kullanın.
+4. Kütüphanelerden güncel olmayanları uygun şekilde güncelleyebilirsiniz.
 
 ## Ekran Görüntüleri
 
@@ -66,10 +66,10 @@ This Flutter project retrieves weather information from the https://wttr.in webs
 
 ## Installation
 
-1. Make sure Flutter SDK is installed.
+1. This application is developed for Flutter.
 2. Clone or download this project.
-3. Run the flutter packages get command in the project's root directory to install the packages.
-4. Use the flutter run command to run the application on a device.
+3. Use the libraries listed in the 'pubspec.yaml' file.
+4. You can update the libraries to their appropriate versions if needed.
 
 ## Screenshots
 
