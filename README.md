@@ -39,8 +39,8 @@ Bu projenin lisansı falan yoktur. Dilediğiniz gibi kullanabilirsiniz. Eksik, h
 
 ---
 
-Geliştirici: Mustafa Arslan
-E-posta: mustafaarslan.92@gmail.com
+- Geliştirici: Mustafa Arslan
+- E-posta: mustafaarslan.92@gmail.com
 
 ---------------------------------------------------
 
@@ -86,6 +86,6 @@ This project has no license. You can use it however you want. Feel free to reach
 
 ---
 
-Developer: Mustafa Arslan
-E-mail: mustafaarslan.92@gmail.com
+- Developer: Mustafa Arslan
+- E-mail: mustafaarslan.92@gmail.com
 
