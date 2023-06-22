@@ -1,4 +1,4 @@
-# Konum ile Hana Durumu
+# Konum ile Hava Durumu
 
 Bu Flutter projesi, kullanıcının konum bilgisini alarak https://wttr.in sitesinden hava durumu bilgilerini getirir.
 
