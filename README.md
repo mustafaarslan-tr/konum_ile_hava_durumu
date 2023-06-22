@@ -1,4 +1,4 @@
-# KONUM İLE HAVA DURUMU
+# Konum ile Hana Durumu
 
 Bu Flutter projesi, kullanıcının konum bilgisini alarak https://wttr.in sitesinden hava durumu bilgilerini getirir.
 
@@ -37,10 +37,15 @@ Bu Flutter projesi, kullanıcının konum bilgisini alarak https://wttr.in sites
 
 Bu projenin lisansı falan yoktur. Dilediğiniz gibi kullanabilirsiniz. Eksik, hata, soru veya önerileriniz için bana ulaşabilirsiniz.
 
+---
+
+Geliştirici: Mustafa Arslan
+E-posta: mustafaarslan.92@gmail.com
+
+---------------------------------------------------
 
 
-
-# WEATHER WITH LOCATION
+# Weather With Location
 
 This Flutter project retrieves weather information from the https://wttr.in website based on the user's location.
 
@@ -79,4 +84,8 @@ This Flutter project retrieves weather information from the https://wttr.in webs
 
 This project has no license. You can use it however you want. Feel free to reach out to me for any issues, errors, questions, or suggestions.
 
+---
+
+Developer: Mustafa Arslan
+E-mail: mustafaarslan.92@gmail.com
 
